@@ -1,0 +1,2 @@
+# TuscanyRmiClient
+Tuscany客户端比rmi客户端的service多了一个RMIService接口
